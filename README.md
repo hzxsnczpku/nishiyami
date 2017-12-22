@@ -22,6 +22,13 @@ Here is my code implementation of the Statoil/C-CORE Iceberg Classifier Challeng
 * Lee Filter
 
 ### Ensemble Methods
+* Mean
+* Medium
+* Pushout
+* MinMax
+* BestBase
+* Denoising
+
 
 ## Experiment Results
 ### SVM
