@@ -61,5 +61,4 @@ Here is my code implementation of the Statoil/C-CORE Iceberg Classifier Challeng
 | linear   | 0.5173     | 0.7737    | 0.5940  | 0.6802  |
 
 ### NN
-#### Basic
-Under Construction
+<img src = "https://github.com/hzxsnczpku/nishiyami/blob/master/sc.png" width='280px'>
